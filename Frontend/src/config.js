@@ -1,4 +1,4 @@
 // config.js
-const apiUrl = 'https://serverfinal-n1ys.onrender.com'; // Replace with your actual API base URL
+const apiUrl = 'https://flipbackend-9li16ocr6-dodo-fashions-projects.vercel.app/'; // Replace with your actual API base URL
 export default apiUrl;
    
