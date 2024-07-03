@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-    origin: 'https://newcode-gispbylrf-dodo-fashions-projects.vercel.app',
+    origin: 'https://serverfinal-n1ys.onrender.com',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
 }));
